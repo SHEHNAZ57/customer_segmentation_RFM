@@ -259,7 +259,6 @@ customer\_segmentation/
 │
 ├── app.py
 ├── customer\_segmentation\_RFM.ipynb
-├── Online Retail.xlsx
 ├── final\_customer\_segments.csv
 ├── kmeans\_model.pkl
 ├── scaler.pkl
